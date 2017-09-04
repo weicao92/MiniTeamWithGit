@@ -1,4 +1,4 @@
-##小团队使用git管理项目（listenagain）
+##小团队使用git管理项目（final）
 
 
 ###准备工作 
